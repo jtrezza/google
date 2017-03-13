@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+}
+.apps {
+  margin: 60px 80px;
+  text-align: left;
+}
+.app {
+  color: black;
+  display: inline-block;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0 12px;
+  max-width: 128px;
+  width: 16.66%;
+}
+.app img {
+  width: 100%;
+}
+.app a {
+  color: black;
+  text-decoration: none;
+}
+.app label {
+  display: block;
+  font-size: 14px;
+  max-width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+}
